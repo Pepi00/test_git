@@ -9,3 +9,6 @@ def sub(a,b):
 
 def printR(result):
 	print("Wynik: ", result)
+
+
+rararar
