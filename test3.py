@@ -1,4 +1,4 @@
-def add(a,b):
+def Suma(a,b):
 sdfasdff
 	return(a+b)
 
