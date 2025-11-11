@@ -4,7 +4,7 @@ def add(a,b):
 
 
 def sub(a,b):
-	print(";)
+	print("Suma")
 ")
 	return(a-b)
 
